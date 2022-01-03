@@ -1,0 +1,3 @@
+$PSVersionTable.PSVersion
+Install-Module -Name Az -AllowClobber -Scope AllUsers
+Connect-AzAccount

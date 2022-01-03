@@ -1,0 +1,25 @@
+Development Setup
+
+1. Create a folder in your local i.e DevOps
+2. Install the Azure CLI on your machine
+	https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli
+3.Get Started with Azure CLI	
+	https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli
+	
+4.Install Visual Studio Code Editor
+	https://code.visualstudio.com/download
+	
+5.Install Microsoft Visual Studio
+	https://visualstudio.microsoft.com/downloads/
+	
+6.Install Mobaxterm
+	https://mobaxterm.mobatek.net/download-home-edition.html
+	
+7.GIT Installation on machine
+	https://git-scm.com/downloads
+	
+8.GitHub Account Creation
+	https://github.com/
+	
+9.Docker Hub Account Creation
+	https://hub.docker.com/
